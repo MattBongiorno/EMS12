@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ambertrand/Employee-Management-Tracker.git"
+        "url": "git+https://github.com/MattBongiorno/EMS12.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/ambertrand/Employee-Management-Tracker/issues"
+        "url": "https://github.com/MattBongiorno/EMS12/issues"
     },
-    "homepage": "https://github.com/ambertrand/Employee-Management-Tracker#readme",
+    "homepage": "https://github.com/MattBongiorno/EMS12#readme",
     "dependencies": {
         "console.table": "^0.10.0",
         "dotenv": "^8.2.0",
